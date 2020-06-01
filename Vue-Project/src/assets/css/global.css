@@ -1,0 +1,21 @@
+/* 全局定义的css样式表 */
+
+html,
+body,
+#app{
+  height: 100%;
+  margin: 0;
+  padding: 0 ;
+}
+
+/* 面包屑组件样式 */
+.el-breadcrumb{
+    margin-bottom: 16px;
+}
+
+.el-card{
+    box-shadow: 10px 10px 10px rgba(0 0, 0, 3);
+}
+li{
+  list-style:none
+}

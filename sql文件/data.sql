@@ -1,0 +1,12 @@
+INSERT INTO `data` VALUES (800, '一月', 0);
+INSERT INTO `data` VALUES (600, '二月', 1);
+INSERT INTO `data` VALUES (666, '十月', 2);
+INSERT INTO `data` VALUES (888, '四月', 3);
+INSERT INTO `data` VALUES (348, '五月', 4);
+INSERT INTO `data` VALUES (999, '六月', 5);
+INSERT INTO `data` VALUES (222, '七月', 6);
+INSERT INTO `data` VALUES (111, '八月', 7);
+INSERT INTO `data` VALUES (555, '九月', 8);
+INSERT INTO `data` VALUES (666, '三月', 9);
+INSERT INTO `data` VALUES (777, '十一月', 10);
+INSERT INTO `data` VALUES (888, '十二月', 11);

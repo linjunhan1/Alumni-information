@@ -1,0 +1,14 @@
+INSERT INTO `bj` VALUES (2013, '软件工程1班', '测试');
+INSERT INTO `bj` VALUES (2020, '软件工程2班', '测试');
+INSERT INTO `bj` VALUES (2013, '软件工程5班', '测试');
+INSERT INTO `bj` VALUES (2013, '软件工程10班', '测试');
+INSERT INTO `bj` VALUES (2020, '软件工程3班', '描述');
+INSERT INTO `bj` VALUES (2020, '软件工程4班', '描述');
+INSERT INTO `bj` VALUES (2016, '软件工程1班', '描述');
+INSERT INTO `bj` VALUES (2016, '软件工程2班', '描述');
+INSERT INTO `bj` VALUES (2019, '软件工程1班', '描述');
+INSERT INTO `bj` VALUES (2018, '软件工程1班', '描述');
+INSERT INTO `bj` VALUES (2017, '软件工程1班', '描述');
+INSERT INTO `bj` VALUES (2015, '软件工程1班', '描述');
+INSERT INTO `bj` VALUES (2021, '软件工程1班', '描述');
+INSERT INTO `bj` VALUES (2020, '软件工程1班', '描述');

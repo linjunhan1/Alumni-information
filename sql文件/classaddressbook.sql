@@ -1,0 +1,15 @@
+INSERT INTO `classaddressbook` VALUES ('东七七', 'llljjjjhh', '17788888888', '1992737888@qq.com', '广州', '前端工程师', '广州', 'llljjjjhh', 1, 22, NULL, NULL, NULL);
+INSERT INTO `classaddressbook` VALUES ('林书豪', 'llllllllllllllllll', '18888888888', '19999999@qq.com', '上海', '后端工程师', '广州', 'llllllllllllllllll', 1, 22, NULL, NULL, NULL);
+INSERT INTO `classaddressbook` VALUES ('丹尼格林', 'llllllllllllllllll', '18888888888', '19999999@qq.com', '上海', '后端工程师', '广州', 'llllllllllllllllll', 1, 22, NULL, NULL, NULL);
+INSERT INTO `classaddressbook` VALUES ('杨超越', 'llllllllllllllllll', '18888888888', '19999999@qq.com', '上海', '后端工程师', '广州', 'llllllllllllllllll', 1, 22, NULL, NULL, NULL);
+INSERT INTO `classaddressbook` VALUES ('张虎扑', 'llllllllllllllllll', '18888888888', '19999999@qq.com', '上海', '后端工程师', '广州', 'llllllllllllllllll', 1, 22, NULL, NULL, NULL);
+INSERT INTO `classaddressbook` VALUES ('张百度', 'llllllllllllllllll', '18888888888', '19999999@qq.com', '上海', '后端工程师', '广州', 'llllllllllllllllll', 1, 22, NULL, NULL, NULL);
+INSERT INTO `classaddressbook` VALUES ('王晓旭', 'llllllllllllllllll', '18888888888', '19999999@qq.com', '上海', '后端工程师', '广州', 'llllllllllllllllll', 1, 22, NULL, NULL, NULL);
+INSERT INTO `classaddressbook` VALUES ('易建联', 'llllllllllllllllll', '18888888888', '19999999@qq.com', '上海', '后端工程师', '广州', 'llllllllllllllllll', 1, 22, NULL, NULL, NULL);
+INSERT INTO `classaddressbook` VALUES ('姚明', 'llllllllllllllllll', '18888888888', '19999999@qq.com', '上海', '后端工程师', '广州', 'llllllllllllllllll', 1, 22, NULL, NULL, NULL);
+INSERT INTO `classaddressbook` VALUES ('宋情书', 'llllllllllllllllll', '18888888888', '19999999@qq.com', '上海', '后端工程师', '广州', 'llllllllllllllllll', 1, 22, NULL, NULL, NULL);
+INSERT INTO `classaddressbook` VALUES ('谢逊', 'llllllllllllllllll', '18888888888', '19999999@qq.com', '上海', '后端工程师', '广州', 'llllllllllllllllll', 1, 22, NULL, NULL, NULL);
+INSERT INTO `classaddressbook` VALUES ('谢谢', 'llllllllllllllllll', '18888888888', '19999999@qq.com', '上海', '后端工程师', '广州', 'llllllllllllllllll', 1, 22, NULL, NULL, NULL);
+INSERT INTO `classaddressbook` VALUES ('谢艾奇', 'llllllllllllllllll', '18888888888', '19999999@qq.com', '上海', '后端工程师', '广州', 'llllllllllllllllll', 1, 22, NULL, NULL, NULL);
+INSERT INTO `classaddressbook` VALUES ('王小明', 'llllllllllllllllll', '18888888888', '19999999@qq.com', '上海', '后端工程师', '广州', 'llllllllllllllllll', 1, 22, NULL, NULL, NULL);
+INSERT INTO `classaddressbook` VALUES ('王小红', 'llllllllllllllllll', '18888888888', '19999999@qq.com', '上海', '后端工程师', '广州', 'llllllllllllllllll', 1, 22, NULL, NULL, NULL);
